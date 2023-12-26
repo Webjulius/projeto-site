@@ -1,0 +1,17 @@
+* {
+    font-family:Arial, Helvetica, sans-serif ;
+    font-size: 16px;
+}
+
+bory {
+    background-color: rgb(204,157,248);
+
+}
+
+main {
+    background-color: white;
+    width: 500px;
+    margin: auto;
+    padding-block-end: 10pix;
+    box-shadow: 3pix 3pix 5pix rgba(rgba(123, 0, 255, 0.258), 
+}
